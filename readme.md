@@ -2,6 +2,10 @@
 
 PowerShell module to manage Pembroke PS Scheduled Tasks
 
+## Build Status
+
+![Build status](https://ci.appveyor.com/api/projects/status/github/jpsider/PembrokePSsched?branch=master&svg=true)
+
 ## GitPitch PitchMe presentation
 
 * [gitpitch.com/jpsider/PembrokePSsched](https://gitpitch.com/jpsider/PembrokePSsched)
